@@ -1,1 +1,5 @@
-# -FCC-JavaScript-Algorithms-and-Data-Structures
+# FreeCodeCamp JavaScript Algorithms and Data Structures
+
+## Certificate of Completion
+
+![](images/certification.png)
